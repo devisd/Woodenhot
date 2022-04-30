@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://devisd.github.io/Woodenhot",
+  "homepage": "https://github.com/devisd/Woodenhot",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Woodenhot/"
@@ -18,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/devisd/Woodenhot/issues"
   },
-  "homepage": "https://github.com/devisd/Woodenhot#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "htmlnano": "^0.2.9",
+    "parcel-bundler": "^1.12.5",
+    "posthtml": "^0.11.6"
   }
 }
