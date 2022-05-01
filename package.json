@@ -22,5 +22,8 @@
     "htmlnano": "^0.2.9",
     "parcel-bundler": "^1.12.5",
     "posthtml": "^0.11.6"
+  },
+  "dependencies": {
+    "sass": "^1.51.0"
   }
 }
